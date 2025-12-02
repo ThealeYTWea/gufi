@@ -1,2 +1,2 @@
-# gufi
-ae
+def main():
+  print("realnigga4444)
